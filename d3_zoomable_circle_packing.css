@@ -1,0 +1,12 @@
+
+
+/*elid*/svg circle {
+  fill: rgb(31, 119, 180);
+  fill-opacity: .25;
+  stroke: rgb(31, 119, 180); 
+  stroke-width: 2px;
+}
+
+/*elid*/svg text {
+  font: 10px sans-serif;
+}
